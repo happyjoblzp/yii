@@ -1,11 +1,11 @@
 <?php
 
 return [
-	'title' => '编程浪子微信图书商城',
+	'title' => '商品管理演示系统(@HM)',
 	'domain' => [
-		'www' => 'http://hm.come51buy.com',
-		'm' => 'http://hm.come51buy.com/m',
-		'web' => 'http://hm.come51buy.com/web'
+		'www' => 'http://sz.come51buy.com',
+		'm' => 'http://sz.come51buy.com/m',
+		'web' => 'http://sz.come51buy.com/web'
 	],
 	'upload' => [
 		'avatar' => '/uploads/avatar',

@@ -35,3 +35,5 @@ server {
 ```
 - 安装php-fpm，并启动,sudo yum install php-fpm,sudo php-fpm&
 - 启动nginx，sudo /usr/sbin/nginx -s reload
+
+- 安装yum install php-pdo   yum install php-pdo_mysql
